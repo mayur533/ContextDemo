@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ContextDemo</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="long_press_me_to_see_the_context_menu">Long press me to see the context menu</string>
+</resources>
